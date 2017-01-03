@@ -8,8 +8,17 @@
 
 **What next?** Nastavljam s Odin Project izazovima. Započinjem #100-days-of-code 
 
-**Links to work:** 
-http://www.theodinproject.com/courses/web-development-101/lessons/javascript-basics
-https://ugitch.github.io/100-days-of-code/log.html
+**Link to work:** 
+[Project Euler](https://github.com/ugitch/project_euler)
 
 
+### Day 2: January 3, 2017
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**What next?** 
+
+**Link to work:** 
+[link-name](link)
