@@ -1,6 +1,7 @@
 # Coding journey
 
-### Day 1: January 2, 2017
+
+### January 2, 2017
 
 **Today's Progress**: Uradio Project Euler solutions stranicu na githubu i riješio prvi problem (na bolji način).
 
@@ -11,14 +12,34 @@
 **Link to work:** 
 [Project Euler](https://github.com/ugitch/project_euler)
 
+**Extra links:**
 
-### Day 2: January 3, 2017
 
-**Today's Progress**: 
+### January 3, 2017
 
-**Thoughts:** 
+**Today's Progress**: Drugi problem na Project Euler.
 
-**What next?** 
+**Thoughts:** Mnogo buke ni oko čega. Vrlo blesav pristup rješavanju.
+
+**What next?** Mislim da ću raditi WordPress sutra, malo Ojler, mogao bih CSS.
 
 **Link to work:** 
-[link-name](link)
+[Project Euler](https://github.com/ugitch/project_euler)
+
+**Extra links:**
+
+
+### January 4, 2017
+
+**Today's Progress**: 
+WP Business Course, prilično kilavo i sporo, ali šta je tu je.
+Napravio sam *outline* za Tribute stranicu, recimo.
+
+**Thoughts:** Ne preostaje mi do da probam razne stvari, dok ne uletim u *flow*.
+
+**What next?** Šta sutra, ko to zna?
+
+**Link to work:**
+[Tribute Page Euler](https://github.com/ugitch/tribute-page)
+
+**Extra links:**
