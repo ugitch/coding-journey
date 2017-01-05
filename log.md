@@ -10,7 +10,7 @@
 **What next?** Nastavljam s Odin Project izazovima. Započinjem #100-days-of-code 
 
 **Link to work:** 
-[Project Euler](https://github.com/ugitch/project_euler)
+[Project Euler](https://ugitch.github.io/project_euler/)
 
 **Extra links:**
 
@@ -40,6 +40,6 @@ Napravio sam *outline* za Tribute stranicu, recimo.
 **What next?** Šta sutra, ko to zna?
 
 **Link to work:**
-[Tribute Page Euler](https://github.com/ugitch/tribute-page)
+[Tribute Page](https://github.com/ugitch/tribute-page)
 
 **Extra links:**
