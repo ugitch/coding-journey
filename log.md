@@ -43,3 +43,19 @@ Napravio sam *outline* za Tribute stranicu, recimo.
 [Tribute Page](https://github.com/ugitch/tribute-page)
 
 **Extra links:**
+[Markdown](http://daringfireball.net/projects/markdown/dingus)
+[Youtube Page](http://www.theodinproject.com/courses/html5-and-css3/lessons/embedding-images-and-video)
+
+
+### January 6, 2017
+
+**Today's Progress**: Eloquent JS. Project Euler problem 3.
+
+**Thoughts:** Optimistično, poletno. Ide, to je najvažnije.
+
+**What next?** Nastavak Eloquent JS, definitivno.
+
+**Link to work:**
+[Project Euler](https://github.com/ugitch/project_euler)
+
+**Extra links:**
