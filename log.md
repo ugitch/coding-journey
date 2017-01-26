@@ -59,3 +59,16 @@ Napravio sam *outline* za Tribute stranicu, recimo.
 [Project Euler](https://github.com/ugitch/project_euler)
 
 **Extra links:**
+
+
+### January 26, 2017
+
+**Today's Progress**: Pravio sam format dokumenta za CV.
+
+**Thoughts:** Jako konfuzno.
+
+**What next?** Nastavljam s Eloquent JS, valjda. I mogao bih riješiti neki Ojler problem ili nešto s FreeCodeCamp-a ili oboje.
+
+**Link to work:** 
+
+**Extra links:**
