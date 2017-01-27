@@ -3,7 +3,7 @@
 
 ### January 2, 2017
 
-**Today's Progress**: Uradio Project Euler solutions stranicu na githubu i riješio prvi problem (na bolji način).
+**Today's Progress:** Uradio Project Euler solutions stranicu na githubu i riješio prvi problem (na bolji način).
 
 **Thoughts:** Vratih se kodiranju. Mučan početak. Na kraju ipak je nešto krenulo. Solidno sam dizajnirao Project Euler solutions stranicu.
 
@@ -17,7 +17,7 @@
 
 ### January 3, 2017
 
-**Today's Progress**: Drugi problem na Project Euler.
+**Today's Progress:** Drugi problem na Project Euler.
 
 **Thoughts:** Mnogo buke ni oko čega. Vrlo blesav pristup rješavanju.
 
@@ -31,8 +31,7 @@
 
 ### January 4, 2017
 
-**Today's Progress**: 
-WP Business Course, prilično kilavo i sporo, ali šta je tu je.
+**Today's Progress:** WP Business Course, prilično kilavo i sporo, ali šta je tu je. 
 Napravio sam *outline* za Tribute stranicu, recimo.
 
 **Thoughts:** Ne preostaje mi do da probam razne stvari, dok ne uletim u *flow*.
@@ -49,7 +48,7 @@ Napravio sam *outline* za Tribute stranicu, recimo.
 
 ### January 6, 2017
 
-**Today's Progress**: Eloquent JS. Project Euler problem 3.
+**Today's Progress:** Eloquent JS. Project Euler problem 3.
 
 **Thoughts:** Optimistično, poletno. Ide, to je najvažnije.
 
@@ -63,11 +62,24 @@ Napravio sam *outline* za Tribute stranicu, recimo.
 
 ### January 26, 2017
 
-**Today's Progress**: Pravio sam format dokumenta za CV.
+**Today's Progress:** Pravio sam format dokumenta za CV.
 
 **Thoughts:** Jako konfuzno.
 
 **What next?** Nastavljam s Eloquent JS, valjda. I mogao bih riješiti neki Ojler problem ili nešto s FreeCodeCamp-a ili oboje.
+
+**Link to work:** 
+
+**Extra links:**
+
+
+### January 27, 2017
+
+**Today's Progress:** Rad na CV-u.
+
+**Thoughts:** Vrlo problematična tačka mog posla i života. Ovim fokusom imam mogućnost da konačno premostim one faktore koji me sputavaju.
+
+**What next?** 
 
 **Link to work:** 
 
