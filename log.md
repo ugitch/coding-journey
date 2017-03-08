@@ -9,6 +9,8 @@
 
 **What next?** Continue, with more challenges.
 
-**Link to work:** 
+**GitHub:**
+
+**Link to work:** http://ruby.bastardsbook.com/chapters/web-inspecting-traffic/
 
 **Extra links:**
