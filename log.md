@@ -14,7 +14,26 @@
 **Link to work:** http://ruby.bastardsbook.com/chapters/html-parsing/
 
 **Extra links:**
+- https://www.propublica.org/nerds/item/doc-dollars-guides-collecting-the-data
+- https://en.wikipedia.org/wiki/List_of_HTTP_header_fields
+- https://www.mediawiki.org/wiki/API:Opensearch
 
-https://www.propublica.org/nerds/item/doc-dollars-guides-collecting-the-data
-https://en.wikipedia.org/wiki/List_of_HTTP_header_fields
-https://www.mediawiki.org/wiki/API:Opensearch
+
+### March 11th, 2017
+
+**Today's Progress:** Going through Viking Code's School Bootcamp Prep course.
+
+**Thoughts:** I already did some stuff earlier, but seems like something I need at the moment.
+
+**What next?** 
+- Continue tomorrow, work with tools, or design process.
+- Do some Javascript, some coding..
+- Markdown
+
+**GitHub:**
+
+**Link to work:** 
+
+**Extra links:**
+- https://www.vikingcodeschool.com/dashboard#/web-development-basics/getting-to-know-git
+- https://www.uxapprentice.com/discovery/
