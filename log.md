@@ -35,5 +35,20 @@
 **Link to work:** 
 
 **Extra links:**
-- https://www.vikingcodeschool.com/dashboard#/web-development-basics/getting-to-know-git
+
+
+### March 12th, 2017
+
+**Today's Progress:** Reapproach to git.
+
+**Thoughts:** Nothing difficult, warming up.
+
+**What next?** 
+- https://www.vikingcodeschool.com/dashboard#!/web-design-basics/what-is-user-experience
+
+**GitHub:**
+
+**Link to work:** 
+
+**Extra links:**
 - https://www.uxapprentice.com/discovery/
