@@ -39,7 +39,7 @@
 
 ### March 12th, 2017
 
-**Today's Progress:** Reapproach to git.
+**Today's Progress:** Reapproach to git. Learning about design.
 
 **Thoughts:** Nothing difficult, warming up.
 
@@ -52,3 +52,18 @@
 
 **Extra links:**
 - https://www.uxapprentice.com/discovery/
+
+
+### March 13th, 2017
+
+**Today's Progress:** UX Design basics. GIT.
+
+**Thoughts:** UX involvement pretty much bores me.
+
+**What next?** 
+
+**GitHub:**
+
+**Link to work:** 
+
+**Extra links:**
