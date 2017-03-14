@@ -11,7 +11,8 @@
 
 **GitHub:**
 
-**Link to work:** http://ruby.bastardsbook.com/chapters/html-parsing/
+**Link to work:** 
+- http://ruby.bastardsbook.com/chapters/html-parsing/
 
 **Extra links:**
 - https://www.propublica.org/nerds/item/doc-dollars-guides-collecting-the-data
@@ -60,7 +61,23 @@
 
 **Thoughts:** UX involvement pretty much bores me.
 
-**What next?** https://www.vikingcodeschool.com/dashboard#!/html5-and-css3/falling-in-love-with-markup
+**What next?** 
+- https://www.vikingcodeschool.com/dashboard#!/html5-and-css3/falling-in-love-with-markup
+
+**GitHub:**
+
+**Link to work:** 
+
+**Extra links:**
+
+
+### March 14th, 2017
+
+**Today's Progress:** UX Design. Software engineering basics.
+
+**Thoughts:** Much better than yesterday, I even came to almost like it.
+
+**What next?** 
 
 **GitHub:**
 
