@@ -84,3 +84,5 @@
 **Link to work:** 
 
 **Extra links:**
+- https://www.taniarascia.com/you-dont-need-a-framework/
+- https://www.vikingcodeschool.com/dashboard#!/html5-and-css3/falling-in-love-with-markup
