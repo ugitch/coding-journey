@@ -45,7 +45,7 @@
 **Thoughts:** Nothing difficult, warming up.
 
 **What next?** 
-- https://www.vikingcodeschool.com/dashboard#!/web-design-basics/what-is-user-experience
+- https://www.vikingcodeschool.com/dashboard#/web-design-basics/what-is-user-experience
 
 **GitHub:**
 
@@ -62,7 +62,7 @@
 **Thoughts:** UX involvement pretty much bores me.
 
 **What next?** 
-- https://www.vikingcodeschool.com/dashboard#!/html5-and-css3/falling-in-love-with-markup
+- https://www.vikingcodeschool.com/dashboard#/html5-and-css3/falling-in-love-with-markup
 
 **GitHub:**
 
@@ -85,16 +85,18 @@
 
 **Extra links:**
 - https://www.taniarascia.com/you-dont-need-a-framework/
-- https://www.vikingcodeschool.com/dashboard#!/html5-and-css3/falling-in-love-with-markup
+- https://www.vikingcodeschool.com/dashboard#/web-design-basics/your-own-ux-teardown
+- https://www.vikingcodeschool.com/dashboard#/software-engineering-basics/a-brief-history-of-software-engineering
 
 
 ### March 15th, 2017
 
-**Today's Progress:**
+**Today's Progress:** UX design. Software engineering.
 
-**Thoughts:** 
+**Thoughts:** I saw a nice video on software engineering by Paolo Perotta.
 
-**What next?** 
+**What next?**
+- https://www.vikingcodeschool.com/dashboard#/software-engineering-basics/approaching-complex-problems
 
 **GitHub:**
 
