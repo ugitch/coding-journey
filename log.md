@@ -11,10 +11,8 @@
 
 **GitHub:**
 
-**Link to work:** 
+**Links:** 
 - http://ruby.bastardsbook.com/chapters/html-parsing/
-
-**Extra links:**
 - https://www.propublica.org/nerds/item/doc-dollars-guides-collecting-the-data
 - https://en.wikipedia.org/wiki/List_of_HTTP_header_fields
 - https://www.mediawiki.org/wiki/API:Opensearch
@@ -33,9 +31,7 @@
 
 **GitHub:**
 
-**Link to work:** 
-
-**Extra links:**
+**Links:** 
 
 
 ### March 12th, 2017
@@ -49,9 +45,7 @@
 
 **GitHub:**
 
-**Link to work:** 
-
-**Extra links:**
+**Links:**
 - https://www.uxapprentice.com/discovery/
 
 
@@ -66,9 +60,7 @@
 
 **GitHub:**
 
-**Link to work:** 
-
-**Extra links:**
+**Links:**
 
 
 ### March 14th, 2017
@@ -81,9 +73,7 @@
 
 **GitHub:**
 
-**Link to work:** 
-
-**Extra links:**
+**Links:**
 - https://www.taniarascia.com/you-dont-need-a-framework/
 - https://www.vikingcodeschool.com/dashboard#/web-design-basics/your-own-ux-teardown
 - https://www.vikingcodeschool.com/dashboard#/software-engineering-basics/a-brief-history-of-software-engineering
@@ -93,13 +83,30 @@
 
 **Today's Progress:** UX design. Software engineering.
 
-**Thoughts:** I saw a nice video on software engineering by Paolo Perotta.
+**Thoughts:** I saw a nice video on software engineering and Agile by Paolo Perrotta.
 
 **What next?**
 - https://www.vikingcodeschool.com/dashboard#/software-engineering-basics/approaching-complex-problems
+- https://www.uxapprentice.com/discovery/
 
 **GitHub:**
 
-**Link to work:** 
+**Links:**
+
+
+### March 17th, 2017
+
+**Today's Progress:** UX Teardowns. Color theory.
+
+**Thoughts:** New design stuff, hungry for good web design!
+
+**What next?**
+- https://www.vikingcodeschool.com/dashboard#/web-design-basics/what-is-good-design
+
+**GitHub:**
+
+**Link to work:**
 
 **Extra links:**
+- [design guru](http://www.artist-developer.com/)
+- [color theory](http://tallys.github.io/color-theory/)
