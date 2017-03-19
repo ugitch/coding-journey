@@ -11,6 +11,8 @@
 
 **GitHub:**
 
+**Take-aways:**
+
 **Links:** 
 - http://ruby.bastardsbook.com/chapters/html-parsing/
 - https://www.propublica.org/nerds/item/doc-dollars-guides-collecting-the-data
@@ -31,6 +33,8 @@
 
 **GitHub:**
 
+**Take-aways:**
+
 **Links:** 
 
 
@@ -44,6 +48,8 @@
 - https://www.vikingcodeschool.com/dashboard#/web-design-basics/what-is-user-experience
 
 **GitHub:**
+
+**Take-aways:**
 
 **Links:**
 - https://www.uxapprentice.com/discovery/
@@ -60,6 +66,8 @@
 
 **GitHub:**
 
+**Take-aways:**
+
 **Links:**
 
 
@@ -72,6 +80,8 @@
 **What next?** 
 
 **GitHub:**
+
+**Take-aways:**
 
 **Links:**
 - https://www.taniarascia.com/you-dont-need-a-framework/
@@ -91,6 +101,8 @@
 
 **GitHub:**
 
+**Take-aways:**
+
 **Links:**
 
 
@@ -105,8 +117,29 @@
 
 **GitHub:**
 
-**Link to work:**
+**Take-aways:**
 
-**Extra links:**
+**Links:**
 - [design guru](http://www.artist-developer.com/)
 - [color theory](http://tallys.github.io/color-theory/)
+
+
+### March 18th, 2017
+
+**Today's Progress:** Principles of visual design.
+
+**Thoughts:**
+
+**What next?**
+
+**GitHub:**
+
+**Take-aways:**
+- [how design works](https://startupsthisishowdesignworks.com/)
+- https://www.noupe.com/design/7-key-principles-that-make-a-web-design-look-good.html
+- https://www.smashingmagazine.com/2009/04/8-simple-ways-to-improve-typography-in-your-designs/
+- http://webdesignerwall.com/general/fonts-and-the-web
+
+**Links:**
+- [Objectified(documentary)](https://www.youtube.com/watch?v=wNwKzRQIj_k)
+- [Helvetica(documentary)](https://www.youtube.com/watch?v=feZ3Mr42Ki4)
