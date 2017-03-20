@@ -11,7 +11,7 @@
 
 **GitHub:**
 
-**Take-aways:**
+**Takeaways:**
 
 **Links:** 
 - http://ruby.bastardsbook.com/chapters/html-parsing/
@@ -33,7 +33,7 @@
 
 **GitHub:**
 
-**Take-aways:**
+**Takeaways:**
 
 **Links:** 
 
@@ -49,7 +49,7 @@
 
 **GitHub:**
 
-**Take-aways:**
+**Takeaways:**
 
 **Links:**
 - https://www.uxapprentice.com/discovery/
@@ -66,7 +66,7 @@
 
 **GitHub:**
 
-**Take-aways:**
+**Takeaways:**
 
 **Links:**
 
@@ -81,7 +81,7 @@
 
 **GitHub:**
 
-**Take-aways:**
+**Takeaways:**
 
 **Links:**
 - https://www.taniarascia.com/you-dont-need-a-framework/
@@ -101,7 +101,7 @@
 
 **GitHub:**
 
-**Take-aways:**
+**Takeaways:**
 
 **Links:**
 
@@ -117,7 +117,7 @@
 
 **GitHub:**
 
-**Take-aways:**
+**Takeaways:**
 
 **Links:**
 - [design guru](http://www.artist-developer.com/)
@@ -134,7 +134,7 @@
 
 **GitHub:**
 
-**Take-aways:**
+**Takeaways:**
 - [how design works](https://startupsthisishowdesignworks.com/)
 - https://www.noupe.com/design/7-key-principles-that-make-a-web-design-look-good.html
 - https://www.smashingmagazine.com/2009/04/8-simple-ways-to-improve-typography-in-your-designs/
@@ -143,3 +143,34 @@
 **Links:**
 - [Objectified(documentary)](https://www.youtube.com/watch?v=wNwKzRQIj_k)
 - [Helvetica(documentary)](https://www.youtube.com/watch?v=feZ3Mr42Ki4)
+
+
+### March 19th, 2017
+
+**Today's Progress:** Learning about visual elements and stuff.
+
+**Thoughts:** Intriguing, made me very curious.
+
+**What next?**
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### March 20th, 2017
+
+**Today's Progress:** Principles of visual design.
+
+**Thoughts:**
+
+**What next?**
+- https://webdesign.tutsplus.com/articles/understanding-visual-hierarchy-in-web-design--webdesign-84
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
