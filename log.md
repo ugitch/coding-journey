@@ -162,12 +162,13 @@
 
 ### March 20th, 2017
 
-**Today's Progress:** Principles of visual design.
+**Today's Progress:** Principles of visual design. Going from the start, essentials make one get better, Learn Enough Command Line Tutorial.
 
 **Thoughts:**
 
 **What next?**
 - https://webdesign.tutsplus.com/articles/understanding-visual-hierarchy-in-web-design--webdesign-84
+- https://www.learnenough.com/command-line-tutorial#sec-listing
 
 **GitHub:**
 
