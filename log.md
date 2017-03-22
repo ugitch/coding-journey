@@ -173,5 +173,23 @@
 **GitHub:**
 
 **Takeaways:**
+- http://www.openvim.com/tutorial.html
+
+**Links:**
+
+
+### March 21st, 2017
+
+**Today's Progress:** Learn Enough Terminal. Continuation of Visual Hierarchy.
+
+**Thoughts:** Goes in a flow!
+
+**What next?**
+
+**GitHub:**
+
+**Takeaways:**
+- http://vanseodesign.com/web-design/basic-design-principles/
+- [Andy Rutledge's Design+View](http://www.andyrutledge.com/rules-and-context.php)
 
 **Links:**
