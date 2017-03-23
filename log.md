@@ -193,3 +193,18 @@
 - [Andy Rutledge's Design+View](http://www.andyrutledge.com/rules-and-context.php)
 
 **Links:**
+
+
+### March 22nd, 2017
+
+**Today's Progress:** Learn enough command line to be dangerous finished!
+
+**Thoughts:**
+
+**What next?**
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
