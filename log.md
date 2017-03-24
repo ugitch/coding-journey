@@ -208,3 +208,20 @@
 **Takeaways:**
 
 **Links:**
+
+
+### March 23rd, 2017
+
+**Today's Progress:** Fonts and typography.
+
+**Thoughts:**
+
+**What next?**
+- [Learn Enough text editor](https://www.learnenough.com/text-editor-tutorial#sec-vim)
+
+**GitHub:**
+
+**Takeaways:**
+- [VIM tutorial](http://www.openvim.com/)
+
+**Links:**
