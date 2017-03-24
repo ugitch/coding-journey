@@ -225,3 +225,20 @@
 - [VIM tutorial](http://www.openvim.com/)
 
 **Links:**
+
+
+### March 24th, 2017
+
+**Today's Progress:** Learning VIM.
+
+**Thoughts:** Amazing thing to know!
+
+**What next?**
+- https://www.learnenough.com/text-editor-tutorial#sec-cut_copy_paste
+
+**GitHub:**
+
+**Takeaways:**
+- http://vimdoc.sourceforge.net/htmldoc/intro.html
+
+**Links:**
