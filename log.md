@@ -242,3 +242,18 @@
 - http://vimdoc.sourceforge.net/htmldoc/intro.html
 
 **Links:**
+
+
+### March 25th, 2017
+
+**Today's Progress:** Typography.
+
+**Thoughts:**
+
+**What next?**
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
