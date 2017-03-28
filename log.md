@@ -295,10 +295,10 @@
 
 **Today's Progress:** Learn Enough Git.
 
-**Thoughts:**
+**Thoughts:** Wonderful tutorial, I really enjoy it. Practical, intuitive and hopefully useful.
 
 **What next?**
-- https://www.learnenough.com/git-tutorial#sec-collaborating
+- https://www.learnenough.com/git-tutorial#sec-pushing_branches
 
 **GitHub:**
 
