@@ -289,3 +289,19 @@
 **Takeaways:**
 
 **Links:**
+
+
+### March 28th, 2017
+
+**Today's Progress:** Learn Enough Git.
+
+**Thoughts:**
+
+**What next?**
+- https://www.learnenough.com/git-tutorial#sec-collaborating
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
