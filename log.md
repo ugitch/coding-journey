@@ -257,3 +257,35 @@
 **Takeaways:**
 
 **Links:**
+
+
+### March 26th, 2017
+
+**Today's Progress:** Learn Enough Text Editor.   
+
+**Thoughts:**
+
+**What next?**
+- https://www.learnenough.com/text-editor-tutorial#sec-writing_an_executable_script
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### March 27th, 2017
+
+**Today's Progress:** Finished Learn Enough Text Editor.
+
+**Thoughts:**
+
+**What next?**
+- https://www.vikingcodeschool.com/dashboard#/web-design-basics/your-own-design-teardowns
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
