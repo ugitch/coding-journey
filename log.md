@@ -305,3 +305,18 @@
 **Takeaways:**
 
 **Links:**
+
+
+### March 29th, 2017
+
+**Today's Progress:** Learn Enough Git completed.
+
+**Thoughts:** Excellent.
+
+**What next?**
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
