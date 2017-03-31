@@ -320,3 +320,40 @@
 **Takeaways:**
 
 **Links:**
+
+
+### March 30th, 2017
+
+**Today's Progress:** Hacker culture. Conquer command line.
+
+**Thoughts:**
+
+**What next?**
+- http://conqueringthecommandline.com/book/basics
+- The art of unix programming
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### March 31th, 2017
+
+**Today's Progress:** Started Conquering the Command line.
+
+**Thoughts:** Electronic Life, Platform game next to inspect code and work on changing some features.
+
+**What next?**
+- http://conqueringthecommandline.com/book/basics#sec-basics-ln
+
+**GitHub:**
+
+**Takeaways:**
+- http://www.catb.org/~esr/faqs/hacking-howto.html
+- http://www.tldp.org/HOWTO/Reading-List-HOWTO/
+- https://en.wikipedia.org/wiki/List_of_open-source_video_games
+
+**Links:**
+- [usenet setting](https://ptd.net/help-desk/advanced/usenet-newsgroups/how-setup-your-newsreader)
