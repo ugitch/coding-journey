@@ -357,3 +357,20 @@
 
 **Links:**
 - [usenet setting](https://ptd.net/help-desk/advanced/usenet-newsgroups/how-setup-your-newsreader)
+
+
+### April 2nd, 2017
+
+**Today's Progress:** Conquer Command line. Learn enough HTML
+
+**Thoughts:** Amazing Learn Enough tutorials, cause they enforce using tools you've already learned.
+
+**What next?**
+- http://conqueringthecommandline.com/book/ack_ag
+- https://www.learnenough.com/html-tutorial#sec-more_pages
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
