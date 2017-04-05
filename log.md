@@ -361,7 +361,7 @@
 
 ### April 2nd, 2017
 
-**Today's Progress:** Conquer Command line. Learn enough HTML
+**Today's Progress:** Conquer Command line. Learn enough HTML.
 
 **Thoughts:** Amazing Learn Enough tutorials, cause they enforce using tools you've already learned.
 
@@ -374,3 +374,55 @@
 **Takeaways:**
 
 **Links:**
+
+
+### April 3rd, 2017
+
+**Today's Progress:** Reading Raymond's TAOUP.
+
+**Thoughts:**
+
+**What next?**
+- https://www.learnenough.com/html-tutorial#sec-divs_and_spans
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### April 4th, 2017
+
+**Today's Progress:** Finished Learn Enough HTML.
+
+**Thoughts:** Too basic tutorial.
+
+**What next?**
+
+**GitHub:**
+
+**Takeaways:**
+- https://launchschool.com/is_this_for_me
+
+**Links:**
+- http://www.catb.org/jargon/html/introduction.html
+
+
+### April 5th, 2017
+
+**Today's Progress:** Launch School and all about it.
+
+**Thoughts:**
+
+**What next?**
+
+**GitHub:**
+
+**Takeaways:**
+- https://launchschool.com/lessons/e715ea05/assignments/1ace9dad
+
+**Links:**
+
+
+
