@@ -425,4 +425,17 @@
 **Links:**
 
 
+### April 6th, 2017
+
+**Today's Progress:** Launch School. Learning to Learn.
+
+**Thoughts:** Seems to me that I'll be learning in Launch School, hopefully be a graduate.
+
+**What next?**
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
 
