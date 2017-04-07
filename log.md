@@ -429,7 +429,7 @@
 
 **Today's Progress:** Launch School. Learning to Learn.
 
-**Thoughts:** Seems to me that I'll be learning in Launch School, hopefully be a graduate.
+**Thoughts:** Seems to me that I'll be learning in Launch School, to become a master of the trade, hopefully.
 
 **What next?**
 
@@ -439,3 +439,19 @@
 
 **Links:**
 
+
+### April 7th, 2017
+
+**Today's Progress:** 4th webinar by Launch School.
+
+**Thoughts:** Just getting better and better. I am pretty convinced that Launch School is what I need, both in regards to proffesional skills and work ethic.
+
+**What next?**
+- https://launchschool.com/lessons/e715ea05/assignments/7aceaefd
+
+**GitHub:**
+
+**Takeaways:**
+- https://blog.petrovic.gr/sr/2016/12/vodic-za-ucenje-web-programiranja-frontend-pristup/
+
+**Links:**
