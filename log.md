@@ -455,3 +455,89 @@
 - https://blog.petrovic.gr/sr/2016/12/vodic-za-ucenje-web-programiranja-frontend-pristup/
 
 **Links:**
+
+
+### April 8th, 2017
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**What next?**
+- https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#how-do-you-pick-a-programming-language
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### April 9th, 2017
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**What next?**
+- https://launchschool.com/lessons/e715ea05/assignments/0b8ad16a
+
+**GitHub:**
+
+**Takeaways:**
+- [Dizajn intervju - Peđa Rusić](https://startit.rs/peda-rusic-svako-moze-da-nauci-da-dizajnira-talenat-je-samo-izgovor/)
+- http://www.codenewbie.org/podcast
+
+**Links:**
+
+**To Read:**
+- https://launchschool.com/success_stories
+- https://launchschool.com/blog/categories/meet-a-student/
+
+
+### April 10th, 2017
+
+**Today's Progress:** Going through Launch School Prep.
+
+**Thoughts:** Very quality material. Just getting better and better, I think they are worth every buck they're charging.
+
+**What next?**
+- https://launchschool.com/lessons/153313a0/assignments/b425e9fe
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:** 
+
+
+### April 11th, 2017
+
+**Today's Progress:** Finished LaunchSchool CLI book.
+
+**Thoughts:**
+
+**What next?**
+- https://launchschool.com/lessons/153313a0/assignments/f04cbde3
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### April 12th, 2017
+
+**Today's Progress:** Did LauncSchool Git Book and little more. 
+
+**Thoughts:** Wonderful material, very precise, not too deep and sufficient for start.
+
+**What next?**
+- [First 8 ruby lessons](https://www.codecademy.com/learn/ruby)
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
