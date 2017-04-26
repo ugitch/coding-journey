@@ -529,12 +529,134 @@
 
 ### April 12th, 2017
 
-**Today's Progress:** Did LauncSchool Git Book and little more. 
+**Today's Progress:** Did LaunchSchool Git Book and little more. 
 
 **Thoughts:** Wonderful material, very precise, not too deep and sufficient for start.
 
 **What next?**
 - [First 8 ruby lessons](https://www.codecademy.com/learn/ruby)
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### April 13th, 2017
+
+**Today's Progress:** Ruby Codecademy track.
+
+**Thoughts:**
+
+**What next?**
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### April 14th, 2017
+
+**Today's Progress:** Ruby Codecademy track.
+
+**Thoughts:**
+
+**What next?**
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### April 15th, 2017
+
+**Today's Progress:** Ruby Codecademy track.
+
+**Thoughts:**
+
+**What next?**
+- http://www.eriktrautman.com/posts/ruby-explained-conditionals-and-flow-control
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### April 16th, 2017
+
+**Today's Progress:** Ruby Codecademy track.
+
+**Thoughts:**
+
+**What next?**
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### April 19th, 2017
+
+**Today's Progress:** Ruby Codecademy track.
+
+**Thoughts:**
+
+**What next?**
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### April 20th, 2017
+
+**Today's Progress:** Ruby Codecademy track.
+
+**Thoughts:**
+
+**What next?**
+- http://ruby-doc.org/core-2.4.1/Array.html
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### April 24th, 2017
+
+**Today's Progress:** Ruby Codecademy track.
+
+**Thoughts:**
+
+**What next?**
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### April 25th, 2017
+
+**Today's Progress:** Ruby Codecademy track.
+
+**Thoughts:**
+
+**What next?**
 
 **GitHub:**
 
