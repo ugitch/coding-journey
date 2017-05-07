@@ -663,3 +663,55 @@
 **Takeaways:**
 
 **Links:**
+
+
+### April 27th, 2017
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**What next?**
+
+**GitHub:**
+
+**Takeaways:**
+- https://startit.rs/kako-postati-junior-full-stack-programer-za-dve-i-po-godine/?utm_source=poslovi-bilten-270417&utm_medium=email&utm_content=uvodni-tekst&utm_campaign=poslovi
+- https://www.stevepavlina.com/blog/2005/03/master-the-basics/
+
+**Links:**
+- http://codekata.com/
+
+
+### April 28th, 2017
+
+**Today's Progress:** Ruby Codecademy track.
+
+**Thoughts:**
+
+**What next?**
+- http://ruby-doc.org/core-2.4.1/Hash.html
+- http://ruby-doc.org/core-2.4.1/Symbol.html
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### May 2nd, 2017
+
+**Today's Progress:** Ruby Codecademy track.
+
+**Thoughts:**
+
+**What next?**
+
+**GitHub:**
+
+**Takeaways:**
+- https://www.learnenough.com/css-and-layout-tutorial/css/introduction
+
+**Links:**
+
