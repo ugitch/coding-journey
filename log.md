@@ -715,3 +715,50 @@
 
 **Links:**
 
+
+### May 9th, 2017
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**What next?**
+- https://www.learnenough.com/css-and-layout-tutorial-tutorial/css/introduction/css_intro
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### May 10th, 2017
+
+**Today's Progress:** Learn Enough CSS & Layout.    
+
+**Thoughts:**
+
+**What next?**
+- https://www.learnenough.com/css-and-layout-tutorial-tutorial/css/style-of-style
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### May 11th, 2017
+
+**Today's Progress:** Learn Enough CSS & Layout.
+
+**Thoughts:**
+
+**What next?**
+- https://www.learnenough.com/css-and-layout-tutorial-tutorial/css/style-of-style/specificity
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
