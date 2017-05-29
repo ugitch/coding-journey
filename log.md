@@ -762,3 +762,68 @@
 **Takeaways:**
 
 **Links:**
+
+
+### May 13th, 2017
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**What next?**
+- https://www.learnenough.com/css-and-layout-tutorial-tutorial/css/style-of-style/good_citizen
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### May 15th, 2017
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**What next?**
+- https://www.learnenough.com/css-and-layout-tutorial-tutorial/css/values/values_pixel
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### May 28th, 2017
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**What next?**
+- https://launchschool.com/lessons/05a74171/assignments/5502a8ec
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### May 29th, 2017
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**What next?**
+- https://launchschool.com/lessons/05a74171/assignments/045b8ae2
+- http://learn.shayhowe.com/html-css/
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
