@@ -820,7 +820,183 @@
 
 **What next?**
 - https://launchschool.com/lessons/05a74171/assignments/045b8ae2
-- http://learn.shayhowe.com/html-css/
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### May 30th, 2017
+
+**Today's Progress:** Non-designer book chapter 1 & 2.
+
+**Thoughts:**
+
+**What next?**
+- http://learn.shayhowe.com/html-css/building-your-first-web-page/
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### May 31st, 2017
+
+**Today's Progress:** Shay Howe HTML & CSS chapter 1 & 2.
+
+**Thoughts:**
+
+**What next?**
+- http://learn.shayhowe.com/html-css/getting-to-know-css/
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### June 1st, 2017
+
+**Today's Progress:** Shay Howe HTML & CSS chapter 3 & 4.
+
+**Thoughts:**
+
+**What next?**
+- http://learn.shayhowe.com/html-css/positioning-content/
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### June 2nd, 2017
+
+**Today's Progress:** Shay Howe HTML & CSS chapter 5.
+
+**Thoughts:**
+
+**What next?**
+- http://learn.shayhowe.com/html-css/positioning-content/#uniquely-positioning-elements
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### June 3rd, 2017
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**What next?**
+- http://learn.shayhowe.com/html-css/working-with-typography/
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### June 4th, 2017
+
+**Today's Progress:** Shay Howe HTML & CSS chapter 6.
+
+**Thoughts:**
+
+**What next?**
+- http://learn.shayhowe.com/html-css/working-with-typography/#text-properties
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### June 5th, 2017
+
+**Today's Progress:** The rest of Shay Howe HTML & CSS chapter 6.
+
+**Thoughts:**
+
+**What next?**
+- http://learn.shayhowe.com/html-css/setting-backgrounds-and-gradients/
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### June 7th, 2017
+
+**Today's Progress:** Shay Howe HTML & CSS chapter 7 & 8 & partly chapter 9.
+
+**Thoughts:**
+
+**What next?**
+- http://learn.shayhowe.com/html-css/adding-media/#adding-audio
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### June 8th, 2017
+
+**Today's Progress:** Shay Howe HTML & CSS rest of chapter 9 & 10.
+
+**Thoughts:**
+
+**What next?**
+- http://learn.shayhowe.com/html-css/organizing-data-with-tables/
+
+**GitHub:**
+- file:///home/ugison/coding/launch_school/shay_howe/styles-conference/schedule.html
+
+**Takeaways:**
+
+**Links:**
+
+
+### June 9th, 2017
+
+**Today's Progress:** Shay Howe HTML & CSS 11 & 12.
+
+**Thoughts:**
+
+**What next?**
+- https://launchschool.com/lessons/05a74171/assignments/6b0502b2
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### June 21th, 2017
+
+**Today's Progress:**
+- https://www.learnenough.com/css-and-layout-tutorial?single_page=1
+
+**Thoughts:**
+
+**What next?**
 
 **GitHub:**
 
