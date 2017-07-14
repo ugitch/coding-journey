@@ -1039,9 +1039,9 @@
 
 ### July 12th, 2017
 
-**Today's Progress:** Learn Enough CSS & Layouts.
+**Today's Progress:** Learn Enough CSS & Layout.
 
-**Thoughts:** Got back to learning CSS & Layouts. Very confident. Nice work! 
+**Thoughts:** Got back to learning CSS & Layout. Very confident. Nice work! 
 
 **What next?**
 - https://www.learnenough.com/css-and-layout-tutorial-tutorial/css/style-of-style/good_citizen
@@ -1055,13 +1055,30 @@
 
 ### July 13th, 2017
 
-**Today's Progress:** Learn Enough CSS & Layouts.
+**Today's Progress:** Learn Enough CSS & Layout.
 
 **Thoughts:** Learning intricacies of CSS; color, sizing, pixels, percentages, em and rem. Very well explained, so I got it!
 
 **What next?**
-- continue Learn Enough CSS & Layouts. Hopefully, soon I'll be equiped with a good working knowledge to embark on an adventure to make a full-blown static website.
+- continue Learn Enough CSS & Layout. Hopefully, soon I'll be equiped with a good working knowledge to embark on an adventure to make a full-blown static website.
 - https://www.learnenough.com/css-and-layout-tutorial-tutorial/css/values/values_view
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### July 14th, 2017
+
+**Today's Progress:** Learn Enough CSS & Layout chapter 3 & 4 finished.
+
+**Thoughts:** Nice touch. Very good. The real meat is ahead of me. It's getting more and more interested.
+
+**What next?**
+- Layout & templates (Jekyll) are ahead of me.
+- https://www.learnenough.com/css-and-layout-tutorial-tutorial/css/struct-layout
 
 **GitHub:**
 
