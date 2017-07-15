@@ -1085,3 +1085,20 @@
 **Takeaways:**
 
 **Links:**
+
+
+### July 15th, 2017
+
+**Today's Progress:** Learning Jekyll (Learn Enough CSS & Layout).
+
+**Thoughts:** So far, so good. Nothing too difficult though. I need intelectual challenge, I realized. My brain is not engaged enough in my life, I have to prevent it from rotting.
+
+**What next?** 
+- https://www.learnenough.com/css-and-layout-tutorial-tutorial/css/struct-layout/includes-fixed
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
