@@ -1102,3 +1102,18 @@
 
 **Links:**
 
+
+### July 17th, 2017
+
+**Today's Progress:** Further learning of Jekyll (templates).
+
+**Thoughts:** Nice work.
+
+**What next?**
+- https://www.learnenough.com/css-and-layout-tutorial-tutorial/css/templates_and_frontmatter/more_advanced_selectors
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
