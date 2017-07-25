@@ -1117,3 +1117,34 @@
 **Takeaways:**
 
 **Links:**
+
+
+### July 18th, 2017
+
+**Today's Progress:** Very little work.
+
+**Thoughts:**
+
+**What next?**
+- https://www.learnenough.com/css-and-layout-tutorial/css/flex-intro/flex-footer
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
+
+
+### July 25th, 2017
+
+**Today's Progress:** Learning Flexbox layout and Jekyll blog creation.
+
+**Thoughts:** Nice work, involved almost all day long. Not too inquisitive, but tomorrow I'm gonna disect what I did today.
+
+**What next?**
+
+**GitHub:**
+
+**Takeaways:**
+
+**Links:**
